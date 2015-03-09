@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<img src="splash.png" height="300px" >
+
 # Description of Fitness Tracking by Bean Counting
 
 You only need two things to get better at some aspect of fitness:
