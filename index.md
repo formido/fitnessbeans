@@ -2,9 +2,12 @@
 layout: default
 ---
 
-<img src="splash.png" height="300px" >
+<p style="text-align:center;">
+  <img src="splash.png" height="300px" >
+</p>
 
-# Description of Fitness Tracking by Bean Counting
+Simple fitness tracking by counting
+===================================
 
 You only need two things to get better at some aspect of fitness:
 
